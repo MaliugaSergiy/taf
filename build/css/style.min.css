@@ -10222,7 +10222,7 @@ header {
       header nav ul li {
         border-bottom: 1px solid #B7815F; }
         header nav ul li a.side_link {
-          padding: 0;
+          padding: 10px;
           padding-left: 30px;
           width: 100%;
           color: #2a1647;
